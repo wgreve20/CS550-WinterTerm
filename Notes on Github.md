@@ -8,9 +8,14 @@ This will include notes or reminders on how to perform many basic tasks in Githu
 Online
 Profile > Repositories > New
 
+
 #### Upload file to **repository**
 Desktop
+
+
 Documents > Github > *repository* 
+
+
 Create a file
 
 #### Create **branch**
