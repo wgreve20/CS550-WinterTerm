@@ -4,13 +4,18 @@ This will include notes or reminders on how to perform many basic tasks in Githu
 
 ## Skills
 
-Create **repository**
+####Create **repository**
+Online
+Profile > Repositories > New
 
-Upload file to **repository**
+####Upload file to **repository**
+Desktop
+Documents > Github > *repository* 
+Create a file
 
-Create **branch**
+####Create **branch**
 
-**Comit** changes
+####**Comit** changes
 
-Submit a **pull request**
+####Submit a **pull request**
 
