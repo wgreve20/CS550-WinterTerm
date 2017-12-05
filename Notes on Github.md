@@ -7,12 +7,12 @@ This will include notes or reminders on how to perform many basic tasks in Githu
 #### Create **repository**
 Online
 
-Profile > Repositories > New
+Profile > *Repositories* > New
 
 #### Upload file to **repository**
 Desktop
 
-Documents > Github > *repository* 
+Documents > Github > *Repository* 
 
 Create a file
 
@@ -23,7 +23,7 @@ Online
 
 Enter a name for the new *branch*
 
-#### **Comit** changes
+#### **Commit** changes
 Desktop
 
 Save Changes
@@ -37,7 +37,11 @@ Submit
 #### Submit a **pull request**
 Online
 
+*Repository* > New pull request 
 
+Select two branches to compare
+
+Submit
 
 
 
