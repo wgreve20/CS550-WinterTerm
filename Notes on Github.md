@@ -9,13 +9,10 @@ Online
 
 Profile > Repositories > New
 
-
 #### Upload file to **repository**
 Desktop
 
-
 Documents > Github > *repository* 
-
 
 Create a file
 
