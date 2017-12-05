@@ -17,8 +17,27 @@ Documents > Github > *repository*
 Create a file
 
 #### Create **branch**
+Online
+
+*Repository* > Code > *Branch* > 
+
+Enter a name for the new *branch*
 
 #### **Comit** changes
+Desktop
+
+Save Changes
+
+Select changes
+
+Give *commit* a title
+
+Submit
 
 #### Submit a **pull request**
+Online
+
+
+
+
 
